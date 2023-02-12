@@ -1,0 +1,11 @@
+.kis{
+    color: blue;
+    text-align: center;
+    background-color: crimson;
+    flex-wrap: wrap;
+    background-repeat:round;
+
+}
+p{
+    color: crimson;
+}
